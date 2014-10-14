@@ -1,17 +1,13 @@
 #### Instructions
 
-1. Keep providing instrucions.
+1. From the modules pane expand the Reports folder
+2. Double click Activity Report
+To report the maximum amount of detail set Detail Level to High, Parent-Level Tasks Only to False, and Filter System Modules to False. 
+3. Click ok to launch the report viewer. This process will take a few moments. 
 
-2. If this is the last lab then end with the next step:
+Note: The report viewer may open behind the Impact Pro window. 
 
-3. You have completed this block of instruction. Please read the conclusion at
-    ```
-    /root/THA/NAME-OF-LAB/Conclusion.md
-    ```
+4. Once the report was opened browse through the pages. Notice the highly granular details being reported. 
+5. Close the report viewer
 
-4. If there are more labs in the series make sure you end with the next step:
-
-5. You have completed this lab. You can continue to lab 4 by following the instructions found at 
-    ```
-    /root/THA/NAME-OF-LAB/lab4.md
-    ``` 
+This concludes the lab exercise.
