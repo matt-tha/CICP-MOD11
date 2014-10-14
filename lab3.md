@@ -7,7 +7,7 @@ To report the maximum amount of detail set Detail Level to High, Parent-Level Ta
 
 Note: The report viewer may open behind the Impact Pro window. 
 
-4. Once the report was opened browse through the pages. Notice the highly granular details being reported. 
+4. Once the report has opened browse through the pages. Notice the highly granular details being reported. 
 5. Close the report viewer
 
 This concludes the lab exercise.
