@@ -6,6 +6,7 @@
 4. Click Finish to generate the report. This process will take a few moments. 
 
 Note: The report viewer may open behind the Impact Pro window. 
+
 5. Once the report was opened browse through the pages, observe the information presented. 
 6. Close the report viewer. 
 
