@@ -1,18 +1,11 @@
 #### Instructions
 
-1. Keep providing instrucions.
+1. Launch the Network Report Generation RPT from the left pane. 
+2. On the Report Type Selection screen explore the different types of reports. 
+3. Select the Executive Report from the Network report category and click next.
+4. Click Finish to generate the report. This process will take a few moments. 
+Note: The report viewer may open behind the Impact Pro window. 
+5. Once the report was opened browse through the pages, observe the information presented. 
+6. Close the report viewer. 
 
-2. If this is the last lab then end with the next step:
-
-3. You have completed this block of instruction. Please read the conclusion at
-    ```
-    /root/THA/NAME-OF-LAB/Conclusion.md
-    ```
-
-4. If there are more labs in the series make sure you end with the next step:
-
-5. You have completed this lab. You can continue to lab 3 by following the instructions found at 
-    ```
-    /root/THA/NAME-OF-LAB/lab3.md
-    ```
-
+This concludes the lab exercise.
