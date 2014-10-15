@@ -6,4 +6,4 @@
 4. Provide the passphrase ‘ P@ssw0rd! ’ and click open. 
 5. Notice the previous executed modules and discovered entities. 
 
-This concludes the lab exercise.
+This concludes lab exercise 2.
