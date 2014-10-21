@@ -10,4 +10,4 @@ Note: The report viewer may open behind the Impact Pro window.
 4. Once the report has opened browse through the pages. Notice the highly granular details being reported. 
 5. Close the report viewer
 
-This concludes lab exercise 5.
+This concludes this block of instruction.
