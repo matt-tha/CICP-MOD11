@@ -1,9 +1,8 @@
 #### Instructions
 
-1. From the modules pane expand the Reports folder
-2. Double click Activity Report. 
+1. From the modules pane expand the Reports folder and double-click Activity Report. 
 To report the maximum amount of detail set Detail Level to High, Parent-Level Tasks Only to False, and Filter System Modules to False. 
-3. Click ok to launch the report viewer. This process will take a few moments. 
+3. Click OK to launch the report viewer. This process will take a few moments. 
 
   Note: The report viewer may open behind the Impact Pro window. 
 
