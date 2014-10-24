@@ -4,5 +4,5 @@
 2. Modify the provided information. You may choose what details to provide. 
 3. Click OK to save the changes. 
 
-This concludes lab exercise 4.
+This concludes lab exercise 4, continue to exercise 5.
  
